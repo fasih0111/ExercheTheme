@@ -1,0 +1,40 @@
+.layout-navbar-fixed.layout-fixed .wrapper .sidebar {
+	margin-top: 0px;
+	
+}
+.content-wrapper {
+	margin-left: 250px !important;
+	background-color: #fff;
+}
+.navbar-brand {
+	margin: 0 80px;
+}
+
+[class*=sidebar-dark] .user-panel {
+    border-bottom: 0px solid #4f5962;
+}
+
+[class*=sidebar-dark-] .sidebar a {
+    color: #ffffff;
+}
+
+[class*=sidebar-dark-] .nav-link  {
+ padding: .75rem 2rem;
+}
+
+[class*=sidebar-dark-] .nav-link.active  {
+ background-color: #ffffff !important;
+ color: #1034a6 !important;
+}
+
+.main-sidebar {
+	z-index: 1036;
+}
+
+.main-footer {
+	margin-left: 0 !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	font-weight: bold;
+}
